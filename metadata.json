@@ -1,0 +1,5 @@
+{
+  "name": "MetGPT Pro Max",
+  "description": "High-tier multimodal AI companion powered by Gemini, featuring real-time web search, high-fidelity image generation, and neural voice capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
